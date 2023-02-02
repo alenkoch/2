@@ -1,0 +1,8 @@
+Model Information:
+* title:	Diamond
+* source:	https://sketchfab.com/3d-models/diamond-3b100769ffdf4e07808808b8c002921a
+* author:	wladimy (https://sketchfab.com/wladimy)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
